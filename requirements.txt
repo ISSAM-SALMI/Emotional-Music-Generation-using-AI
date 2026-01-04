@@ -1,0 +1,8 @@
+torch>=2.0.0
+numpy
+pandas
+miditoolkit
+tqdm
+fastapi
+uvicorn
+python-multipart
