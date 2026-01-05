@@ -1,23 +1,7 @@
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
-env/
-venv/
-.venv/
-*.egg-info/
 
 
-# Frontend - Node modules & Build artifacts
-web_app/frontend/node_modules/
-web_app/frontend/dist/
-web_app/frontend/.env
-web_app/frontend/.env.local
-web_app/frontend/npm-debug.log*
-web_app/frontend/yarn-debug.log*
-web_app/frontend/yarn-error.log*
+
+
 
 # Dependencies
 node_modules/
